@@ -100,5 +100,4 @@ export default {
 .v-chip.overdue{
   background: #f83e70;
 }
-
 </style>
